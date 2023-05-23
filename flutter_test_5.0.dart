@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:savannah_tech/main.dart';
+import 'package:flutter_test/main.dart';
 
 void main() {
   testWidgets('Login button is disabled when password field is empty', (WidgetTester tester) async {
